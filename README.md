@@ -2,6 +2,9 @@
 
 A modern, responsive React application for managing leads with authentication, built with Vite, React Router, and Tailwind CSS.
 
+<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/dae694ea-03ef-49fb-b59b-98770131b380" />
+
+
 ## 🚀 Features
 
 - **User Authentication**: Secure login and registration system
